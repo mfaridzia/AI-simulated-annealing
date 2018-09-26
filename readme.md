@@ -1,4 +1,4 @@
-## Tugas1 Artificial Intelegence - Algoritma Simulated Annealing
+## Tugas Artificial Intelligence - Algoritma Simulated Annealing
 
 ### Stack yang digunakan:
 
